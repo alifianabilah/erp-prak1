@@ -14,12 +14,12 @@
 "data"          : [
     
 ],
-"demo"          :[],
-"test"          :[],
-"image"         :[],
-"qweb"          :[],
-"css"           :[],
-"application"   :[],
-"installable"   :[],
-"auto_install"  :[],
+"demo"          : [],
+"test"          : [],
+"image"         : [],
+"qweb"          : [],
+"css"           : [],
+"application"   : True,
+"installable"   : True,
+"auto_install"  : False,
 }
